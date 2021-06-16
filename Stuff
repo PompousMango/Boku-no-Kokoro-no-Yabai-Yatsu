@@ -3,13 +3,13 @@
   "description": "a",
   "artist": "a",
   "author": "a",
-  "cover": "https://i.imgur.com/NELpA2R.jpeg",
+  "cover": "https://www.google.com/search?q=Boku+no+Kokoro+no+Yabai+Yatsu+cover&tbm=isch&ved=2ahUKEwiX6I_bkZvxAhUOGXIKHax9AxkQ2-cCegQIABAA&oq=Boku+no+Kokoro+no+Yabai+Yatsu+cover&gs_lcp=CgNpbWcQAzoCCAA6BAgAEB46BAgAEBhQumVY5W1gwG5oAHAAeACAAcgBiAHJBZIBBTAuMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=LmbJYJeZAo6yyAOs-43IAQ&bih=967&biw=1856&client=firefox-b-d#imgrc=UZa5gnRdwhlfUM",
   "chapters": {
     "73": {
-      "title": "a",
-      "volume": "a",
+      "title": "",
+      "volume": "",
       "groups": {
-        "a": "/proxy/api/imgur/chapter/Dy7REOI/"
+        "anonymous": "/proxy/api/imgur/chapter/Dy7REOI/"
       },
       "last_updated": "1617211024"
     }
