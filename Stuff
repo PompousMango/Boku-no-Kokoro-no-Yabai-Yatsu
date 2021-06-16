@@ -1,17 +1,17 @@
 {
   "title": "Boku-no-Kokoro-no-Yabai-Yatsu",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "a",
+  "artist": "a",
+  "author": "a",
+  "cover": "https://i.imgur.com/NELpA2R.jpeg",
   "chapters": {
     "73": {
-      "title": "",
-      "volume": "",
+      "title": "a",
+      "volume": "a",
       "groups": {
-        "group name": "/proxy/api/imgur/chapter/Dy7REOI/"
+        "a": "/proxy/api/imgur/chapter/Dy7REOI/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1617211024"
     }
   }
 }
