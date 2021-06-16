@@ -9,9 +9,17 @@
       "title": "I Gave Her Chocolate",
       "volume": "",
       "groups": {
-        "anonymous": "/proxy/api/imgur/chapter/Dy7REOI/"
+        "/a/nonymous": "/proxy/api/imgur/chapter/Dy7REOI/"
       },
       "last_updated": "1617211024"
+    },
+    "72": {
+      "title": "I Got Chocolate",
+      "volume": "",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/s9FNlqJ/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
